@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fa31877f.css","mappings":"AAAA,oBACI,WACJ,CAEA,oCACI,oBACI,UACJ,CACJ","sources":["components/home/style.module.css"],"sourcesContent":[".sonic{\r\n    width: 300px;\r\n}\r\n\r\n@media screen and (min-width: 768px) {\r\n    .sonic{\r\n        width: auto;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
