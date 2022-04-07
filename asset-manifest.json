@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/testes-react/static/css/main.fa31877f.css",
-    "main.js": "/testes-react/static/js/main.d05f7bc4.js",
+    "main.css": "/testes-react/static/css/main.cdf8d172.css",
+    "main.js": "/testes-react/static/js/main.a1665f00.js",
+    "static/media/sonica.png": "/testes-react/static/media/sonica.4654e3b91dd14af4659d.png",
     "static/media/background.jpg": "/testes-react/static/media/background.8522d27921545929830b.jpg",
+    "static/media/section.jpg": "/testes-react/static/media/section.125fd049435c01d250ad.jpg",
     "static/media/Sega-Logo.png": "/testes-react/static/media/Sega-Logo.8b4b14ed8be4f0ce40e4.png",
     "static/media/sonic.gif": "/testes-react/static/media/sonic.1ed879a3039491507553.gif",
     "index.html": "/testes-react/index.html",
-    "main.fa31877f.css.map": "/testes-react/static/css/main.fa31877f.css.map",
-    "main.d05f7bc4.js.map": "/testes-react/static/js/main.d05f7bc4.js.map"
+    "main.cdf8d172.css.map": "/testes-react/static/css/main.cdf8d172.css.map",
+    "main.a1665f00.js.map": "/testes-react/static/js/main.a1665f00.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa31877f.css",
-    "static/js/main.d05f7bc4.js"
+    "static/css/main.cdf8d172.css",
+    "static/js/main.a1665f00.js"
   ]
 }
