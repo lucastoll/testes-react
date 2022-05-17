@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/testes-react/static/css/main.5c449599.css",
-    "main.js": "/testes-react/static/js/main.1330d9bf.js",
+    "main.css": "/testes-react/static/css/main.ee96ce72.css",
+    "main.js": "/testes-react/static/js/main.fb97107f.js",
     "static/media/sonica.png": "/testes-react/static/media/sonica.4654e3b91dd14af4659d.png",
     "static/media/background.jpg": "/testes-react/static/media/background.8522d27921545929830b.jpg",
     "static/media/logo.png": "/testes-react/static/media/logo.f16684852419a8a27f77.png",
     "static/media/tablet.png": "/testes-react/static/media/tablet.2b6e0568228d18edf1a6.png",
+    "static/media/contexto.jpg": "/testes-react/static/media/contexto.8ee4ec9fb86b6e607106.jpg",
     "static/media/mobile.png": "/testes-react/static/media/mobile.a05825700de0df903c7d.png",
     "static/media/Sega-Logo.png": "/testes-react/static/media/Sega-Logo.8b4b14ed8be4f0ce40e4.png",
     "static/media/sonic.gif": "/testes-react/static/media/sonic.1ed879a3039491507553.gif",
@@ -14,11 +15,11 @@
     "static/media/slick.ttf": "/testes-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/testes-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/testes-react/index.html",
-    "main.5c449599.css.map": "/testes-react/static/css/main.5c449599.css.map",
-    "main.1330d9bf.js.map": "/testes-react/static/js/main.1330d9bf.js.map"
+    "main.ee96ce72.css.map": "/testes-react/static/css/main.ee96ce72.css.map",
+    "main.fb97107f.js.map": "/testes-react/static/js/main.fb97107f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c449599.css",
-    "static/js/main.1330d9bf.js"
+    "static/css/main.ee96ce72.css",
+    "static/js/main.fb97107f.js"
   ]
 }
