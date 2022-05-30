@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testes-react/static/css/main.6e7fb86c.css",
-    "main.js": "/testes-react/static/js/main.61fec22a.js",
+    "main.js": "/testes-react/static/js/main.44982278.js",
     "static/media/gameplay.mp4": "/testes-react/static/media/gameplay.3250c7c4a5955bc196f8.mp4",
     "static/media/sonica.png": "/testes-react/static/media/sonica.4654e3b91dd14af4659d.png",
     "static/media/logo.png": "/testes-react/static/media/logo.f16684852419a8a27f77.png",
@@ -15,10 +15,10 @@
     "static/media/slick.woff": "/testes-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/testes-react/index.html",
     "main.6e7fb86c.css.map": "/testes-react/static/css/main.6e7fb86c.css.map",
-    "main.61fec22a.js.map": "/testes-react/static/js/main.61fec22a.js.map"
+    "main.44982278.js.map": "/testes-react/static/js/main.44982278.js.map"
   },
   "entrypoints": [
     "static/css/main.6e7fb86c.css",
-    "static/js/main.61fec22a.js"
+    "static/js/main.44982278.js"
   ]
 }
