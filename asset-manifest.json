@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/testes-react/static/css/main.6e7fb86c.css",
-    "main.js": "/testes-react/static/js/main.8c82f9b7.js",
+    "main.js": "/testes-react/static/js/main.e08cba77.js",
     "static/media/gameplay.mp4": "/testes-react/static/media/gameplay.3250c7c4a5955bc196f8.mp4",
     "static/media/sonica.png": "/testes-react/static/media/sonica.4654e3b91dd14af4659d.png",
     "static/media/logo.png": "/testes-react/static/media/logo.f16684852419a8a27f77.png",
     "static/media/tablet.png": "/testes-react/static/media/tablet.2b6e0568228d18edf1a6.png",
     "static/media/contexto.jpg": "/testes-react/static/media/contexto.8ee4ec9fb86b6e607106.jpg",
     "static/media/mobile.png": "/testes-react/static/media/mobile.a05825700de0df903c7d.png",
+    "static/media/waiting.gif": "/testes-react/static/media/waiting.82268cdcae0d1c8a8607.gif",
     "static/media/sonic.gif": "/testes-react/static/media/sonic.1ed879a3039491507553.gif",
     "static/media/slick.svg": "/testes-react/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/testes-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -15,10 +16,10 @@
     "static/media/slick.woff": "/testes-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/testes-react/index.html",
     "main.6e7fb86c.css.map": "/testes-react/static/css/main.6e7fb86c.css.map",
-    "main.8c82f9b7.js.map": "/testes-react/static/js/main.8c82f9b7.js.map"
+    "main.e08cba77.js.map": "/testes-react/static/js/main.e08cba77.js.map"
   },
   "entrypoints": [
     "static/css/main.6e7fb86c.css",
-    "static/js/main.8c82f9b7.js"
+    "static/js/main.e08cba77.js"
   ]
 }
